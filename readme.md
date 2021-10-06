@@ -1,0 +1,1 @@
+Words list taken from [deeakayen](https://gist.github.com/deekayen)
